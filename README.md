@@ -1,2 +1,2 @@
 # FundamentosJs
-Fundamentos Js para iniciantes
+Divirtam-se fazendo operações matemáticas com strings!!!
